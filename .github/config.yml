@@ -1,0 +1,4 @@
+keyStore: store
+keyPath: react-sprint9/react-state-and-events.key
+secretName: KEY_TESTS
+illegalChanges: []
